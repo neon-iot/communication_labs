@@ -1,10 +1,10 @@
-# Demo course template
+# Communications Technology Laboratory
 ## About this course
-This course...
+This is a teaching resource repository on digital communications theory techniques and applications. Througth simulations and hands-on epxerimentation on software defined radio devices, the material allows students to learn the fundamental concepts by  combining theory and practice.
 
 ## Main topics
-* This
-* That
+* Remore SDR Lab
+* Modulation
 
 ## What you will learn
 * This
@@ -12,8 +12,9 @@ This course...
 * ...
 
 ## What you will need:
-* (Replace with list of required skills / knowledge)
-* (Specify also if any hardware / lab is required)
+* Basic Probability 
+* Signal Processing and System 
+* Programming lenguage like pyhon or C++
 
 
 ***
