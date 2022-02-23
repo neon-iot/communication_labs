@@ -1,3 +1,3 @@
-# Module 1
+# Remote SDR Lab
 
 ## About this module
