@@ -1,20 +1,22 @@
 # Communications Technology Laboratory
-## About this course
-This is a teaching resource repository on digital communications theory techniques and applications. Througth simulations and hands-on epxerimentation on software defined radio devices, the material allows students to learn the fundamental concepts by  combining theory and practice.
+## About this repository
+This is a teaching resource repository on digital communications theory techniques and applications. Througth simulations and hands-on experimentation on software defined radio devices, the material allows students to learn the fundamental concepts by  combining theory and practice.
 
 ## Main topics
 * Remore SDR Lab
+* Detection theory
 * Modulation
+* Synchronization
 
 ## What you will learn
 * This
-* That
+* Measuring a system's ability to detect patterns/stimuli/signals in information despite background noise.
 * ...
 
 ## What you will need:
 * Basic Probability 
 * Signal Processing and System 
-* Programming lenguage like pyhon or C++
+* Fundamentals of Programming
 
 
 ***
