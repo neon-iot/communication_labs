@@ -17,7 +17,7 @@ This is a teaching resource repository on digital communications theory techniqu
 
 ## What you will need:
 * Basic Probability 
-* Signal Processing and System 
+* Signal Processing and Systems 
 * Fundamentals of Programming
 
 
