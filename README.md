@@ -5,13 +5,15 @@ This is a teaching resource repository on digital communications theory techniqu
 ## Main topics
 * Remore SDR Lab
 * Detection theory
-* Modulation
+* Waveform design and matched filter
+* Channel modeling
 * Synchronization
 
 ## What you will learn
-* This
 * Measuring a system's ability to detect patterns/stimuli/signals in information despite background noise.
-* ...
+* How digital communication systems work
+* How to evaluate channel impairments
+* What algorithms are required to recover information
 
 ## What you will need:
 * Basic Probability 
