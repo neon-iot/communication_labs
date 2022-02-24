@@ -1,13 +1,14 @@
 # Communications Technology Laboratory
 ## About this repository
-This is a teaching resource repository on digital communications theory techniques and applications. Througth simulations and hands-on experimentation on software defined radio devices, the material allows students to learn the fundamental concepts by  combining theory and practice.
+This is a teaching resource repository on digital communications theory techniques and applications. Througth simulations and hands-on experimentation on software defined radio devices, the material allows students to learn the fundamental concepts by combining theory and practice.
 
 ## Main topics
-* Remore SDR Lab
+* Remote SDR Lab
 * Detection theory
 * Waveform design and matched filter
 * Channel modeling
 * Synchronization
+* Channel estimation and equalization
 
 ## What you will learn
 * Measuring a system's ability to detect patterns/stimuli/signals in information despite background noise.
