@@ -251,7 +251,7 @@ def binary_to_gray(n):
 
 def channel_raised_cos(BW = 0.5, rolloff = 0, show_fig = [1,2,3]):
   """
-  Convert Binary to Gray codeword and return it. By Adrian Ramirez
+  By Adrian Ramirez
     
   Parameters
   ----------
