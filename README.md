@@ -21,7 +21,8 @@ This is a teaching resource repository on digital communications theory techniqu
 * Signal Processing and Systems 
 * Fundamentals of Programming
 
-
+## Material
+This is a hands on course developed mainly in Jupyter Notebooks.
 ***
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
